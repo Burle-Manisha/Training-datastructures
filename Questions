@@ -1,0 +1,72 @@
+Day-1(6/07/2018)
+
+1. Tower of Hanoi - with and without recursion	(OR)	3 Gallon and 5 Gallon Canisters
+
+2. nth node from the last in LL			//
+3. Middle node in LL 				// Linked List
+4. Even or odd number of nodes in LL		//
+
+5. Loop or not 			// 
+6. Length of the loop		// Floyd Cycle
+7. Starting node of the loop	//
+
+8. Minimum element		//
+9. Pallindrome or not		// Stack
+10. Reverse of stack		//
+
+========================================================================================================================================================
+
+Day-2(7/08/2018)
+
+1.Find the difference between sum of first maximum 'm' elements and sum of first minimum 'm' elements from the given 'n' elements.
+2.Election Scenario, Count number of votes each candidate got and find the winner.
+
+Solve using stacks and queues
+
+3.Reverse a Queue.
+4.Find if pairs of numbers in an integer array consecutive or not.
+5.Given 1 2 3 4 5 6 7 8 9 10 then print 1 10 2 9 3 8 4 7 5 6.
+6.For a list of 'n' integers reverse only the first 'k' elements.
+
+==========================================================================================================================================================
+
+Day-3(8/08/2018)
+
+1.Insert,Search and Delete in a tree.
+2.Count number of nodes in a tree.
+3.Count number of leaf nodes in a tree.
+4.Find if the given tree is a full binary tree.
+5.Maximum and minimum number in a tree.
+6.Delete a tree.
+7.Find the level that has maximum sum.
+8.Longest path in a tree and check if their is a path with given sum.
+9.Print all the elements in the tree.
+10.Mirror image of a tree.
+
+============================================================================================================================================================
+
+Day-4(9/08/2018)
+
+1.Sum of largest 3 elements in an array.
+2.Print all the duplicates in an array.
+3.Swap two Strings.
+4.Count number of words in a given sentence.
+5.Substring in an array.
+6.Remove punctuations from a string.
+7.Check if a binary string has a 0 between two 1's.
+8.Find the missing number, where 'n' is given and numbers are from 1...n.
+9.Move all 0's in array to end.
+10.Rearrange the elements in an order such that elements in an order that smallest, highest, 2nd smallest , 2nd highest, and so on...
+11.Replace each element in an integer array with nearest highest number.
+12.Find the elements in a string which are not repeated.
+13.Find the occurance of each character in a string.
+14.Rearrange an array such that even positioned element is greater than odd positioned elements.
+15.Password validation & strength suggestor.
+	1.Uppercase-1
+	2.Lowercase-1
+	3.Special Character-1
+	4.length should be>=8
+	5.One number atleast.
+  password satisfying 1,2,3 conditions with atleast 6 characters then it is moderate.
+  password satisfying all the 5 conditions then it is strong.
+
